@@ -48,12 +48,12 @@ tags: []
 ## 关联资源
 
 - [企业知识库与 RAG开源项目案例](https://agentcaseshare.cn/articles/case-enterprise-knowledge-rag-overview)
-- [企业知识库与 RAG开源项目汇总](https://agentcaseshare.cn/articles/case-enterprise-knowledge-rag-2026-09-08-projects)
 - [企业知识库与 RAG开源项目汇总](https://agentcaseshare.cn/articles/case-enterprise-knowledge-rag-2026-09-26-projects)
+- [企业知识库与 RAG开源项目汇总](https://agentcaseshare.cn/articles/case-enterprise-knowledge-rag-2026-09-08-projects)
 - [zleap-ai/sag：查询时动态超边能否让企业知识库告别 RAG 幻觉](https://agentcaseshare.cn/articles/case-enterprise-knowledge-rag-2026-09-08-zleap-ai-sag)
 - [pipeshub-ai/pipeshub-ai：开源企业知识检索平台](https://agentcaseshare.cn/articles/case-enterprise-knowledge-rag-2026-09-26-pipeshub-ai-pipeshub-ai)
-- [arc53/docsgpt：开源企业知识库与 RAG 代理平台](https://agentcaseshare.cn/articles/case-enterprise-knowledge-rag-2026-09-08-arc53-docsgpt)
 - [iaar-shanghai/awesome-ai-memory：AI 记忆知识库索引案例](https://agentcaseshare.cn/articles/case-enterprise-knowledge-rag-2026-09-26-iaar-shanghai-awesome-ai-memory)
+- [arc53/docsgpt：开源企业知识库与 RAG 代理平台](https://agentcaseshare.cn/articles/case-enterprise-knowledge-rag-2026-09-08-arc53-docsgpt)
 
 ---
 

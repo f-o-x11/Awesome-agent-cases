@@ -57,8 +57,8 @@ LLM 在长对话里会『断片』——它会逐字重读历史，但没有一�
 
 ## 关联资源
 
-- [让长对话里的 LLM 不掉链子（机制详解）—— attention、lost-in-the-middle 与持续记忆架构谱系](https://agentcaseshare.cn/articles/article-m9w6832r)
 - [Carry Structure Memo 使用指南：安装、开关、纠偏、边界](https://agentcaseshare.cn/articles/article-ts1183gb)
+- [让长对话里的 LLM 不掉链子（机制详解）—— attention、lost-in-the-middle 与持续记忆架构谱系](https://agentcaseshare.cn/articles/article-m9w6832r)
 - [让长对话里的 LLM 不掉链子 —— 用一句 prompt 强制它维护自己的知识结构](https://agentcaseshare.cn/articles/article-jki410my)
 - [Carry Structure Memo —— 让 LLM 在长对话里维护知识结构](https://agentcaseshare.cn/assets/cmrdnheby0005wjoyyyju093y)
 

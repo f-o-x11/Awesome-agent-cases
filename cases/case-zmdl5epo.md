@@ -48,10 +48,10 @@ tags: []
 ## 关联资源
 
 - [AI 编程与软件工程开源项目案例](https://agentcaseshare.cn/articles/case-coding-agents-overview)
-- [编程 Agent 与软件工程开源项目汇总](https://agentcaseshare.cn/articles/case-coding-agents-2026-09-07-projects)
 - [AI 编程与软件工程开源项目汇总](https://agentcaseshare.cn/articles/case-coding-agents-2026-09-25-projects)
-- [esengine/deepseek-reasonix：可留宿运行的 DeepSeek 原生编码代理](https://agentcaseshare.cn/articles/case-coding-agents-2026-09-07-esengine-deepseek-reasonix)
+- [编程 Agent 与软件工程开源项目汇总](https://agentcaseshare.cn/articles/case-coding-agents-2026-09-07-projects)
 - [gentleman-programming/gentle-ai：为已有 AI 编码 agent 补记忆与证据](https://agentcaseshare.cn/articles/case-coding-agents-2026-09-25-gentleman-programming-gentle-ai)
+- [esengine/deepseek-reasonix：可留宿运行的 DeepSeek 原生编码代理](https://agentcaseshare.cn/articles/case-coding-agents-2026-09-07-esengine-deepseek-reasonix)
 - [obra/superpowers：为编码代理注入结构化开发流程](https://agentcaseshare.cn/articles/case-coding-agents-2026-09-07-obra-superpowers)
 - [headroomlabs-ai/headroom：LLM 上下文压缩层项目案例](https://agentcaseshare.cn/articles/case-coding-agents-2026-09-25-headroomlabs-ai-headroom)
 

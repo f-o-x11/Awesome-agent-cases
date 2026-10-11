@@ -50,8 +50,8 @@ tags: []
 - [AI 科研与科学发现开源项目案例](https://agentcaseshare.cn/articles/case-ai-scientific-research-overview)
 - [AI 科研与科学发现开源项目汇总](https://agentcaseshare.cn/articles/case-ai-scientific-research-2026-09-09-projects)
 - [AI 科研与科学发现开源项目汇总](https://agentcaseshare.cn/articles/case-ai-scientific-research-2026-09-27-projects)
-- [aipoch/open-science：本地优先的 AI 科研工作台，能否兑现可复现承诺？](https://agentcaseshare.cn/articles/case-ai-scientific-research-2026-09-09-aipoch-open-science)
 - [google-deepmind/science-skills：科研 Agent 技能集案例](https://agentcaseshare.cn/articles/case-ai-scientific-research-2026-09-27-google-deepmind-science-skills)
+- [aipoch/open-science：本地优先的 AI 科研工作台，能否兑现可复现承诺？](https://agentcaseshare.cn/articles/case-ai-scientific-research-2026-09-09-aipoch-open-science)
 - [delibae/claude-prism：本地优先的 AI 科学写作工作台评估](https://agentcaseshare.cn/articles/case-ai-scientific-research-2026-09-09-delibae-claude-prism)
 - [hang-jin/editaplot：Origin 可编辑科研绘图 Skill 案例](https://agentcaseshare.cn/articles/case-ai-scientific-research-2026-09-27-hang-jin-editaplot)
 
