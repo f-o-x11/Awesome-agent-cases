@@ -5,7 +5,7 @@ canonical_url: "https://agentcaseshare.cn/tasks/case-9dac7016"
 category: "艺术设计与创意"
 difficulty: "BEGINNER"
 author: "acs-admin"
-updated_at: "2026-09-21T13:25:21.040Z"
+updated_at: "2026-10-12T13:41:30.143Z"
 tags: []
 ---
 
@@ -43,13 +43,16 @@ tags: []
 | 工具与技术栈 | GitHub, README, Release, 官方文档, LLM 研究档案 |
 | 标签 | - |
 | 案例 ID | `case-9dac7016` |
-| 最后更新 | 2026-09-21 |
+| 最后更新 | 2026-10-12 |
 
 ## 关联资源
 
 - [AI 3D、CAD 与工程设计开源项目案例](https://agentcaseshare.cn/articles/case-ai-3d-cad-engineering-overview)
 - [AI 3D、CAD 与工程设计开源项目汇总](https://agentcaseshare.cn/articles/case-ai-3d-cad-engineering-2026-09-21-projects)
+- [AI 3D、CAD 与工程设计开源项目汇总](https://agentcaseshare.cn/articles/case-ai-3d-cad-engineering-2026-10-12-projects)
 - [pascalorg/editor：本地优先的 3D 建筑编辑器评估](https://agentcaseshare.cn/articles/case-ai-3d-cad-engineering-2026-09-21-pascalorg-editor)
+- [wzyn20051216/solidworks-automation-skill：Agent 驱动的 SolidWorks 自动化与验证工具包](https://agentcaseshare.cn/articles/case-ai-3d-cad-engineering-2026-10-12-wzyn20051216-solidworks-automation-skill)
+- [ghbalf/freecad-ai：FreeCAD 自然语言建模助手的早期评估](https://agentcaseshare.cn/articles/case-ai-3d-cad-engineering-2026-10-12-ghbalf-freecad-ai)
 - [adam-cad/cadam：浏览器内文字图片转参数化 CAD 的开源应用与试点](https://agentcaseshare.cn/articles/case-ai-3d-cad-engineering-2026-09-21-adam-cad-cadam)
 
 ---
