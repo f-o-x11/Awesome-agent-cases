@@ -48,12 +48,12 @@ tags: []
 ## 关联资源
 
 - [机器人与具身智能开源项目案例](https://agentcaseshare.cn/articles/case-robotics-physical-ai-overview)
-- [机器人与具身智能开源项目汇总](https://agentcaseshare.cn/articles/case-robotics-physical-ai-2026-09-11-projects)
 - [机器人与具身智能开源项目汇总](https://agentcaseshare.cn/articles/case-robotics-physical-ai-2026-10-02-projects)
-- [fluxvla/fluxvla：VLA 从数据到真机部署工程平台](https://agentcaseshare.cn/articles/case-robotics-physical-ai-2026-09-11-fluxvla-fluxvla)
+- [机器人与具身智能开源项目汇总](https://agentcaseshare.cn/articles/case-robotics-physical-ai-2026-09-11-projects)
 - [tianxingchen/embodied-ai-guide：中文具身智能知识库与动手教程](https://agentcaseshare.cn/articles/case-robotics-physical-ai-2026-10-02-tianxingchen-embodied-ai-guide)
-- [openmoss/awesome-wam：WAM 论文地图与评测索引](https://agentcaseshare.cn/articles/case-robotics-physical-ai-2026-09-11-openmoss-awesome-wam)
+- [fluxvla/fluxvla：VLA 从数据到真机部署工程平台](https://agentcaseshare.cn/articles/case-robotics-physical-ai-2026-09-11-fluxvla-fluxvla)
 - [datawhalechina/dive-into-embodied-ai：从零到一的具身智能中文教程](https://agentcaseshare.cn/articles/case-robotics-physical-ai-2026-10-02-datawhalechina-dive-into-embodied-ai)
+- [openmoss/awesome-wam：WAM 论文地图与评测索引](https://agentcaseshare.cn/articles/case-robotics-physical-ai-2026-09-11-openmoss-awesome-wam)
 
 ---
 
