@@ -71,6 +71,9 @@ Published cases are synchronized as concise Markdown summaries for discovery, ci
 <!-- DAILY_BRIEFS_START -->
 | Date | Brief |
 |---|---|
+| 2026-10-12 | [AI News Digest](daily_news/2026/10/2026-10-12-ai-news-digest.md) |
+| 2026-10-11 | [AI News Digest](daily_news/2026/10/2026-10-11-ai-news-digest.md) |
+| 2026-10-10 | [AI News Digest](daily_news/2026/10/2026-10-10-ai-news-digest.md) |
 | 2026-10-09 | [AI News Digest](daily_news/2026/10/2026-10-09-ai-news-digest.md) |
 | 2026-10-08 | [AI News Digest](daily_news/2026/10/2026-10-08-ai-news-digest.md) |
 | 2026-10-02 | [AI News Digest](daily_news/2026/10/2026-10-02-ai-news-digest.md) |
@@ -87,15 +90,13 @@ Published cases are synchronized as concise Markdown summaries for discovery, ci
 | 2026-09-21 | [AI News Digest](daily_news/2026/09/2026-09-21-ai-news-digest.md) |
 | 2026-09-20 | [AI News Digest](daily_news/2026/09/2026-09-20-ai-news-digest.md) |
 | 2026-09-19 | [AI News Digest](daily_news/2026/09/2026-09-19-ai-news-digest.md) |
+| 2026-09-18 | [AI News Digest](daily_news/2026/09/2026-09-18-ai-news-digest.md) |
 | 2026-09-17 | [AI News Digest](daily_news/2026/09/2026-09-17-ai-news-digest.md) |
 | 2026-09-16 | [AI News Digest](daily_news/2026/09/2026-09-16-ai-news-digest.md) |
 | 2026-09-15 | [AI News Digest](daily_news/2026/09/2026-09-15-ai-news-digest.md) |
 | 2026-09-14 | [AI News Digest](daily_news/2026/09/2026-09-14-ai-news-digest.md) |
 | 2026-09-13 | [AI News Digest](daily_news/2026/09/2026-09-13-ai-news-digest.md) |
 | 2026-09-12 | [AI News Digest](daily_news/2026/09/2026-09-12-ai-news-digest.md) |
-| 2026-09-11 | [AI News Digest](daily_news/2026/09/2026-09-11-ai-news-digest.md) |
-| 2026-09-10 | [AI News Digest](daily_news/2026/09/2026-09-10-ai-news-digest.md) |
-| 2026-09-09 | [AI News Digest](daily_news/2026/09/2026-09-09-ai-news-digest.md) |
 <!-- DAILY_BRIEFS_END -->
 
 Older issues are available in the [daily-news archive](daily_news/README.md).

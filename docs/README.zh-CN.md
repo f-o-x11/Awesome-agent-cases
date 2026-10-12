@@ -69,6 +69,9 @@
 <!-- DAILY_BRIEFS_START -->
 | 日期 | 简报 |
 |---|---|
+| 2026-10-12 | [AI 新闻简报](../daily_news/2026/10/2026-10-12-ai-news-digest.md) |
+| 2026-10-11 | [AI 新闻简报](../daily_news/2026/10/2026-10-11-ai-news-digest.md) |
+| 2026-10-10 | [AI 新闻简报](../daily_news/2026/10/2026-10-10-ai-news-digest.md) |
 | 2026-10-09 | [AI 新闻简报](../daily_news/2026/10/2026-10-09-ai-news-digest.md) |
 | 2026-10-08 | [AI 新闻简报](../daily_news/2026/10/2026-10-08-ai-news-digest.md) |
 | 2026-10-02 | [AI 新闻简报](../daily_news/2026/10/2026-10-02-ai-news-digest.md) |
@@ -85,15 +88,13 @@
 | 2026-09-21 | [AI 新闻简报](../daily_news/2026/09/2026-09-21-ai-news-digest.md) |
 | 2026-09-20 | [AI 新闻简报](../daily_news/2026/09/2026-09-20-ai-news-digest.md) |
 | 2026-09-19 | [AI 新闻简报](../daily_news/2026/09/2026-09-19-ai-news-digest.md) |
+| 2026-09-18 | [AI 新闻简报](../daily_news/2026/09/2026-09-18-ai-news-digest.md) |
 | 2026-09-17 | [AI 新闻简报](../daily_news/2026/09/2026-09-17-ai-news-digest.md) |
 | 2026-09-16 | [AI 新闻简报](../daily_news/2026/09/2026-09-16-ai-news-digest.md) |
 | 2026-09-15 | [AI 新闻简报](../daily_news/2026/09/2026-09-15-ai-news-digest.md) |
 | 2026-09-14 | [AI 新闻简报](../daily_news/2026/09/2026-09-14-ai-news-digest.md) |
 | 2026-09-13 | [AI 新闻简报](../daily_news/2026/09/2026-09-13-ai-news-digest.md) |
 | 2026-09-12 | [AI 新闻简报](../daily_news/2026/09/2026-09-12-ai-news-digest.md) |
-| 2026-09-11 | [AI 新闻简报](../daily_news/2026/09/2026-09-11-ai-news-digest.md) |
-| 2026-09-10 | [AI 新闻简报](../daily_news/2026/09/2026-09-10-ai-news-digest.md) |
-| 2026-09-09 | [AI 新闻简报](../daily_news/2026/09/2026-09-09-ai-news-digest.md) |
 <!-- DAILY_BRIEFS_END -->
 
 更早的内容请看[日报归档](../daily_news/README.md)。
