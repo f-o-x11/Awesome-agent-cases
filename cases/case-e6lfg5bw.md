@@ -5,7 +5,7 @@ canonical_url: "https://agentcaseshare.cn/tasks/case-e6lfg5bw"
 category: "内容与传媒"
 difficulty: "BEGINNER"
 author: "acs-admin"
-updated_at: "2026-09-22T13:46:30.620Z"
+updated_at: "2026-10-14T11:42:36.021Z"
 tags: []
 ---
 
@@ -43,14 +43,17 @@ tags: []
 | 工具与技术栈 | GitHub, README, Release, 官方文档, LLM 研究档案 |
 | 标签 | - |
 | 案例 ID | `case-e6lfg5bw` |
-| 最后更新 | 2026-09-22 |
+| 最后更新 | 2026-10-14 |
 
 ## 关联资源
 
 - [AI 内容、视频与传媒开源项目案例](https://agentcaseshare.cn/articles/case-ai-content-media-overview)
 - [AI 内容、视频与传媒开源项目汇总](https://agentcaseshare.cn/articles/case-ai-content-media-2026-09-22-projects)
+- [AI 内容、视频与传媒开源项目汇总](https://agentcaseshare.cn/articles/case-ai-content-media-2026-10-13-projects)
 - [narcooo/inkos：长篇创作与多语言翻译 Agent 系统试用评估案例](https://agentcaseshare.cn/articles/case-ai-content-media-2026-09-22-narcooo-inkos)
+- [zerolu/awesome-seedance：Seedance 2.0 提示词合集的适用性评估](https://agentcaseshare.cn/articles/case-ai-content-media-2026-10-13-zerolu-awesome-seedance)
 - [krillinai/opencreator：本地优先的开源 AI 内容视频创作工作区项目案例](https://agentcaseshare.cn/articles/case-ai-content-media-2026-09-22-krillinai-opencreator)
+- [hetpatel-11/adobe_premiere_pro_mcp：Premiere Pro 的 MCP 桥接工具案例](https://agentcaseshare.cn/articles/case-ai-content-media-2026-10-13-hetpatel-11-adobe-premiere-pro-mcp)
 
 ---
 

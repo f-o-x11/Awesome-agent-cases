@@ -5,7 +5,7 @@ canonical_url: "https://agentcaseshare.cn/tasks/case-qbk2aose"
 category: "零售与电商"
 difficulty: "BEGINNER"
 author: "acs-admin"
-updated_at: "2026-09-23T16:19:00.578Z"
+updated_at: "2026-10-14T15:02:52.218Z"
 tags: []
 ---
 
@@ -43,14 +43,17 @@ tags: []
 | 工具与技术栈 | GitHub, README, Release, 官方文档, LLM 研究档案 |
 | 标签 | - |
 | 案例 ID | `case-qbk2aose` |
-| 最后更新 | 2026-09-23 |
+| 最后更新 | 2026-10-14 |
 
 ## 关联资源
 
 - [AI 零售、电商与增长开源项目案例](https://agentcaseshare.cn/articles/case-ai-retail-marketing-overview)
 - [AI 零售、电商与增长开源项目汇总](https://agentcaseshare.cn/articles/case-ai-retail-marketing-2026-09-23-projects)
+- [AI 零售、电商与增长开源项目汇总](https://agentcaseshare.cn/articles/case-ai-retail-marketing-2026-10-14-projects)
 - [nexscope-ai/amazon-skills：亚马逊卖家 AI 技能集](https://agentcaseshare.cn/articles/case-ai-retail-marketing-2026-09-23-nexscope-ai-amazon-skills)
+- [coreyhaines31/marketingskills：AI 代理营销技能库案例](https://agentcaseshare.cn/articles/case-ai-retail-marketing-2026-10-14-coreyhaines31-marketingskills)
 - [innocommerce/innoshop：开源电商系统 AI 与 MCP 集成案例](https://agentcaseshare.cn/articles/case-ai-retail-marketing-2026-09-23-innocommerce-innoshop)
+- [feichanggege/ecommerce-visual-copywriting-skill：电商视觉方案生成 Skill 案例](https://agentcaseshare.cn/articles/case-ai-retail-marketing-2026-10-14-feichanggege-ecommerce-visual-copywriting-sk)
 
 ---
 
