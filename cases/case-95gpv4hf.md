@@ -5,7 +5,7 @@ canonical_url: "https://agentcaseshare.cn/tasks/case-95gpv4hf"
 category: "科研与学术"
 difficulty: "BEGINNER"
 author: "acs-admin"
-updated_at: "2026-09-28T15:21:06.682Z"
+updated_at: "2026-10-18T15:34:10.063Z"
 tags: []
 ---
 
@@ -43,17 +43,20 @@ tags: []
 | 工具与技术栈 | GitHub, README, Release, 官方文档, LLM 研究档案 |
 | 标签 | - |
 | 案例 ID | `case-95gpv4hf` |
-| 最后更新 | 2026-09-28 |
+| 最后更新 | 2026-10-18 |
 
 ## 关联资源
 
 - [AI 科研与科学发现开源项目案例](https://agentcaseshare.cn/articles/case-ai-scientific-research-overview)
-- [AI 科研与科学发现开源项目汇总](https://agentcaseshare.cn/articles/case-ai-scientific-research-2026-09-09-projects)
 - [AI 科研与科学发现开源项目汇总](https://agentcaseshare.cn/articles/case-ai-scientific-research-2026-09-27-projects)
+- [AI 科研与科学发现开源项目汇总](https://agentcaseshare.cn/articles/case-ai-scientific-research-2026-10-18-projects)
+- [AI 科研与科学发现开源项目汇总](https://agentcaseshare.cn/articles/case-ai-scientific-research-2026-09-09-projects)
+- [dzhng/skills：面向软件工厂的可复用 AI agent 技能库案例](https://agentcaseshare.cn/articles/case-ai-scientific-research-2026-10-18-dzhng-skills)
 - [google-deepmind/science-skills：科研 Agent 技能集案例](https://agentcaseshare.cn/articles/case-ai-scientific-research-2026-09-27-google-deepmind-science-skills)
 - [aipoch/open-science：本地优先的 AI 科研工作台，能否兑现可复现承诺？](https://agentcaseshare.cn/articles/case-ai-scientific-research-2026-09-09-aipoch-open-science)
 - [delibae/claude-prism：本地优先的 AI 科学写作工作台评估](https://agentcaseshare.cn/articles/case-ai-scientific-research-2026-09-09-delibae-claude-prism)
 - [hang-jin/editaplot：Origin 可编辑科研绘图 Skill 案例](https://agentcaseshare.cn/articles/case-ai-scientific-research-2026-09-27-hang-jin-editaplot)
+- [crshdn/mission-control：自主产品引擎的科研工作流试点评估](https://agentcaseshare.cn/articles/case-ai-scientific-research-2026-10-18-crshdn-mission-control)
 
 ---
 
