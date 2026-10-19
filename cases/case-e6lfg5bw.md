@@ -5,7 +5,7 @@ canonical_url: "https://agentcaseshare.cn/tasks/case-e6lfg5bw"
 category: "内容与传媒"
 difficulty: "BEGINNER"
 author: "acs-admin"
-updated_at: "2026-10-14T11:42:36.021Z"
+updated_at: "2026-10-19T08:49:17.818Z"
 tags: []
 ---
 
@@ -43,7 +43,7 @@ tags: []
 | 工具与技术栈 | GitHub, README, Release, 官方文档, LLM 研究档案 |
 | 标签 | - |
 | 案例 ID | `case-e6lfg5bw` |
-| 最后更新 | 2026-10-14 |
+| 最后更新 | 2026-10-19 |
 
 ## 关联资源
 
