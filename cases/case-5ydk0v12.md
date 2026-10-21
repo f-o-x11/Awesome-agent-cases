@@ -5,7 +5,7 @@ canonical_url: "https://agentcaseshare.cn/tasks/case-5ydk0v12"
 category: "研发与 IT"
 difficulty: "BEGINNER"
 author: "acs-admin"
-updated_at: "2026-09-29T15:04:09.367Z"
+updated_at: "2026-10-21T13:14:01.729Z"
 tags: []
 ---
 
@@ -43,13 +43,16 @@ tags: []
 | 工具与技术栈 | GitHub, README, Release, 官方文档, LLM 研究档案 |
 | 标签 | - |
 | 案例 ID | `case-5ydk0v12` |
-| 最后更新 | 2026-09-29 |
+| 最后更新 | 2026-10-21 |
 
 ## 关联资源
 
 - [AI 安全、可靠性与治理开源项目案例](https://agentcaseshare.cn/articles/case-ai-security-safety-overview)
+- [AI 安全、可靠性与治理开源项目汇总](https://agentcaseshare.cn/articles/case-ai-security-safety-2026-10-20-projects)
 - [AI 安全、可靠性与治理开源项目汇总](https://agentcaseshare.cn/articles/case-ai-security-safety-2026-09-29-projects)
 - [nvidia/garak：LLM 漏洞扫描与红队评估工具](https://agentcaseshare.cn/articles/case-ai-security-safety-2026-09-29-nvidia-garak)
+- [mukul975/anthropic-cybersecurity-skills：AI 代理的结构化安全技能库](https://agentcaseshare.cn/articles/case-ai-security-safety-2026-10-20-mukul975-anthropic-cybersecurity-skills)
+- [pipelab-org/pipelock：AI 代理出口流量的可验证安全边界](https://agentcaseshare.cn/articles/case-ai-security-safety-2026-10-20-pipelab-org-pipelock)
 - [beenuar/aisoc：可审计 AI 安全运营中心案例](https://agentcaseshare.cn/articles/case-ai-security-safety-2026-09-29-beenuar-aisoc)
 
 ---
