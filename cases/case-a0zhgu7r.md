@@ -5,7 +5,7 @@ canonical_url: "https://agentcaseshare.cn/tasks/case-a0zhgu7r"
 category: "艺术设计与创意"
 difficulty: "BEGINNER"
 author: "acs-admin"
-updated_at: "2026-10-01T16:07:27.166Z"
+updated_at: "2026-10-23T11:56:41.124Z"
 tags: []
 ---
 
@@ -43,14 +43,17 @@ tags: []
 | 工具与技术栈 | GitHub, README, Release, 官方文档, LLM 研究档案 |
 | 标签 | - |
 | 案例 ID | `case-a0zhgu7r` |
-| 最后更新 | 2026-10-01 |
+| 最后更新 | 2026-10-23 |
 
 ## 关联资源
 
 - [AI 设计与视觉创意开源项目案例](https://agentcaseshare.cn/articles/case-ai-design-overview)
+- [AI 设计与视觉创意开源项目汇总](https://agentcaseshare.cn/articles/case-ai-design-2026-10-22-projects)
 - [AI 设计与视觉创意开源项目汇总](https://agentcaseshare.cn/articles/case-ai-design-2026-10-01-projects)
+- [cathrynlavery/diagram-design：编码代理的编辑级图表生成技能](https://agentcaseshare.cn/articles/case-ai-design-2026-10-22-cathrynlavery-diagram-design)
 - [ath-maas/comfyui-copilot：ComfyUI 工作流智能协作助手](https://agentcaseshare.cn/articles/case-ai-design-2026-10-01-ath-maas-comfyui-copilot)
 - [leonxlnx/taste-skill：AI 前端反模板化技能案例](https://agentcaseshare.cn/articles/case-ai-design-2026-10-01-leonxlnx-taste-skill)
+- [onlook-dev/onlook：面向 Next.js 的开源视觉代码编辑器案例](https://agentcaseshare.cn/articles/case-ai-design-2026-10-22-onlook-dev-onlook)
 
 ---
 
